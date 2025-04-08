@@ -90,15 +90,15 @@ body {
   
   .subheader {
     color: rgb(0, 255, 17);
-    font-size: 24px;
+    font-size: 20px;
     margin-top: 20px;
     z-index: 2;
-    position: relative;
-    top: 60px;
+    position:absolute;
+    top: 315px;
   }
 
   .rave-title {
-    font-size: 90px;
+    font-size: 120px;
     color: #ff00cc;
     text-shadow: 0 0 10px #ff00cc;
     z-index: 2;
@@ -107,6 +107,15 @@ body {
     top: 15px;
   }
   
+  h4 {
+    color: rgb(0, 255, 17);
+    font-size: 30px;
+    margin-top: 0px;
+    z-index: 2;
+    position: absolute;
+    top: 575px;
+    }
+
   .static-shape {
     position: absolute;
     z-index: 1;
@@ -334,58 +343,111 @@ body {
   }
 
   .speaker-name-1 {
-    font-size: 2rem;
+    font-size: 20px;
     color: #1d3bff;
     text-shadow: 0 0 10px #1d3bff;
   }
 
   .talk-title-1 {
-    font-size: 1.5rem;
+    font-size: 18px;
     color: rgb(255, 0, 0);
     text-shadow: 0 0 5px rgb(255, 0, 0);
   }
 
   .speaker-name-2 {
-    font-size: 2rem;
+    font-size: 20px;
     color: #fff600;
     text-shadow: 0 0 10px #ff0;
   }
 
   .talk-title-2 {
-    font-size: 1.5rem;
+    font-size: 18px;
     color: #32d9ff;
     text-shadow: 0 0 5px #32d9ff;
   }
 
   .speaker-name-3 {
-    font-size: 2rem;
+    font-size: 20px;
     color: rgb(255, 153, 0);
     text-shadow: 0 0 10px rgb(255, 153, 0);
   }
 
   .talk-title-3 {
-    font-size: 1.5rem;
+    font-size: 18px;
     color: #00ff4c;
     text-shadow: 0 0 5px #00ff4c;
   }
 
   .speaker-name-4 {
-    font-size: 2rem;
+    font-size: 20px;
     color: #fff600;
     text-shadow: 0 0 10px #ff0;
   }
 
   .talk-title-4 {
-    font-size: 1.5rem;
+    font-size: 18px;
     color: #9f0fff;
     text-shadow: 0 0 5px #9f0fff;
   }
 
-  .bio {
+  .lecture-time-1 {
     color: #ffffff;
-    font-size: 1.1rem;
+    font-size: 18px;
+    position: absolute;
+    top: 550px;
+  }
+
+  .lecture-time-2 {
+    color: #ffffff;
+    font-size: 18px;
+    position: absolute;
+    top: 550px;
+  }
+
+  .lecture-time-3 {
+    color: #ffffff;
+    font-size: 18px;
+    position: absolute;
+    top: 520px;
+  }
+
+  .lecture-time-4 {
+    color: #ffffff;
+    font-size: 18px;
+    position: absolute;
+    top: 550px;
+  }
+
+  .bio-1 {
+    color: #ffffff;
+    font-size: 16px;
     max-width: 1000px;
-    margin: 20px auto;
+    margin: 40px auto;
+    top: 600px;
+  }
+
+  .bio-2 {
+    color: #ffffff;
+    font-size: 16px;
+    max-width: 1000px;
+    margin: 40px auto;
+    top: 600px;
+  }
+
+  .bio-3 {
+    color: #ffffff;
+    font-size: 16px;
+    max-width: 1000px;
+    margin: 40px auto;
+    top: 600px;
+  }
+
+  .bio-4 {
+    color: #ffffff;
+    font-size: 16px;
+    max-width: 1000px;
+    margin: 40px auto;
+    top: 600px;
   }
 
   img {
