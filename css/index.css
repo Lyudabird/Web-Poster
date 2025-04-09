@@ -346,76 +346,93 @@ body {
     font-size: 20px;
     color: #1d3bff;
     text-shadow: 0 0 10px #1d3bff;
+    position: absolute;
+    top: 480px;
   }
 
   .talk-title-1 {
     font-size: 18px;
     color: rgb(255, 0, 0);
     text-shadow: 0 0 5px rgb(255, 0, 0);
+    position: absolute;
+    top: 520px;
   }
 
   .speaker-name-2 {
     font-size: 20px;
     color: #fff600;
     text-shadow: 0 0 10px #ff0;
+    position: absolute;
+    top: 480px;
   }
 
   .talk-title-2 {
     font-size: 18px;
     color: #32d9ff;
     text-shadow: 0 0 5px #32d9ff;
+    position: absolute;
+    top: 520px;
   }
 
   .speaker-name-3 {
     font-size: 20px;
     color: rgb(255, 153, 0);
     text-shadow: 0 0 10px rgb(255, 153, 0);
+    position: absolute;
+    top: 480px;
   }
 
   .talk-title-3 {
     font-size: 18px;
     color: #00ff4c;
     text-shadow: 0 0 5px #00ff4c;
+    position: absolute;
+    top: 520px;
   }
 
   .speaker-name-4 {
     font-size: 20px;
     color: #fff600;
     text-shadow: 0 0 10px #ff0;
+    position: absolute;
+    top: 480px;
   }
+
 
   .talk-title-4 {
     font-size: 18px;
     color: #9f0fff;
     text-shadow: 0 0 5px #9f0fff;
+    position: absolute;
+    top: 520px;
   }
 
   .lecture-time-1 {
     color: #ffffff;
     font-size: 18px;
     position: absolute;
-    top: 540px;
+    top: 580px;
   }
 
   .lecture-time-2 {
     color: #ffffff;
     font-size: 18px;
     position: absolute;
-    top: 540px;
+    top: 580px;
   }
 
   .lecture-time-3 {
     color: #ffffff;
     font-size: 18px;
     position: absolute;
-    top: 510px;
+    top: 580px;
   }
 
   .lecture-time-4 {
     color: #ffffff;
     font-size: 18px;
     position: absolute;
-    top: 540px;
+    top: 580px;
   }
 
   .bio-1 {
@@ -423,6 +440,7 @@ body {
     font-size: 16px;
     max-width: 1000px;
     margin: 40px auto;
+    position: absolute;
     top: 600px;
   }
 
@@ -431,6 +449,7 @@ body {
     font-size: 16px;
     max-width: 1000px;
     margin: 40px auto;
+    position: absolute;
     top: 600px;
   }
 
@@ -439,6 +458,7 @@ body {
     font-size: 16px;
     max-width: 1000px;
     margin: 40px auto;
+    position: absolute;
     top: 600px;
   }
 
@@ -447,6 +467,7 @@ body {
     font-size: 16px;
     max-width: 1000px;
     margin: 40px auto;
+    position: absolute;
     top: 600px;
   }
 
@@ -460,18 +481,26 @@ body {
 
   #image-1 {
     border:  5px solid #ff1111;
+    position: absolute;
+    top: 200px;
   }
 
   #image-2 {
     border:  5px solid #32d9ff;
+    position: absolute;
+    top: 200px;
   }
 
   #image-3 {
     border:  5px solid #00ff4c;
+    position: absolute;
+    top: 200px;
   }
 
   #image-4 {
     border:  5px solid #9f0fff;
+    position: absolute;
+    top: 200px;
   }
   
   .venue {
